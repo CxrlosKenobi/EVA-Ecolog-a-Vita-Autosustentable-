@@ -12,7 +12,7 @@ Home recycling collection service with real-time tracking and traceability. Plus
 Classify your waste and contribute to the conservation of the environment! 🌎
 	</td>
 	<td width="80%" align='center'>
-<img height="40%" src=https://raw.githubusercontent.com/CxrlosKenobi/EVA-app/main/assets/logo.png>
+<img height="60%" src=https://raw.githubusercontent.com/CxrlosKenobi/EVA-app/main/assets/logo.png>
 	</td>
 	<table>
 
