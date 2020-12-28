@@ -54,7 +54,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 	<table>
 
 ## Check out our Green-Map demo!
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1dpgtAlGBRyuXnYp_Lwpkwqioimgx-zd-" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1dpgtAlGBRyuXnYp_Lwpkwqioimgx-zd-" width="640" height="480">
+</iframe>
+
 Only in Chilean territory temporarily 🇨🇱
 
 
