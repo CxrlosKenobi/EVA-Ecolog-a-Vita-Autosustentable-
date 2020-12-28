@@ -24,13 +24,14 @@ Get all the advantages of being Eco!
 <table width="100%">
 	<tr>
 	<td width="50%" align='center'>
-Texto texto texto 🌱 <br>
-🌱 <br>
-		</td>
-		<td width="80%" align='center'
+EVA cares about your recycling for you! 🌱 <br><br>
+Home recycling collection service with real-time tracking and traceability. Plus awards system, statistics and education menu. <br>
+Classify your waste and contribute to the conservation of the environment! 🌎
+	</td>
+	<td width="80%" align='center'>
 <img src=https://raw.githubusercontent.com/CxrlosKenobi/EVA-app/main/assets/Education.png>
-		</td>
-		<table>
+	</td>
+	<table>
 ### Tracking
 
 
