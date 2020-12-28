@@ -19,10 +19,20 @@ Classify your waste and contribute to the conservation of the environment! 🌎
 
 
 ## Features
-
+Get all the advantages of being Eco!
+### Education
+<table width="100%">
+	<tr>
+	<td width="50%" align='center'>
+Texto texto texto 🌱 <br>
+🌱 <br>
+		</td>
+		<td width="80%" align='center'
+<img src=https://raw.githubusercontent.com/CxrlosKenobi/EVA-app/main/assets/Education.png>
+		</td>
+		<table>
 ### Tracking
 
-### Education
 
 ### Traceability
 
