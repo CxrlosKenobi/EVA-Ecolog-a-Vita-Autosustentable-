@@ -1,25 +1,22 @@
 ## EVA
 [![Build Status](https://travis-ci.org/wallabag/ios-app.svg?branch=master)](https://travis-ci.org/wallabag/ios-app) ![](https://img.shields.io/badge/Updated-December%2029,%202020-lightgrey.svg)
->EVA cares about your recycling for you!
-Home recycling collection service with real-time tracking and traceability. Plus awards system, statistics and education menu.
-
+> something
 
 Join EVA beta
 
-## Prototype  
 <table width="100%">
 	<tr>
-	<td width="50%">
-Text lorem ipsum adolem solemText lorem ipsum adolem solem
-Text lorem ipsum adolem solem Text lorem ipsum adolem solem
-Text lorem ipsum adolem solem.
+	<td width="50%" align='center'>
+EVA cares about your recycling for you! 🌱 <br><br>
+Home recycling collection service with real-time tracking and traceability. Plus awards system, statistics and education menu. <br>
+Classify your waste and contribute to the conservation of the environment! 🌎
 	</td>
-	<td width="50%">
-&nbsp; <br> ![Image](assets/iOS.png)
+	<td width="50%" align='center'>
+<img height="40%" src=https://raw.githubusercontent.com/CxrlosKenobi/EVA-app/main/assets/logo.png>
 	</td>
 	<table>
 
-
+## Prototype  
 
 ## Features
 - [x] Feature 1
@@ -73,4 +70,4 @@ Text lorem ipsum adolem solem.
 
 
 
-## Go to <a href="https://appeva.co" target="_blank">AppEva.co</a>.
+## Go to <a href="https://appeva.co" target="_blank">AppEva.co</a> !
