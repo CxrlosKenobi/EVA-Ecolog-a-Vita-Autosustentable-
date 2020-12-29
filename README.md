@@ -63,7 +63,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 - [ ] Deploy!
 - [ ] Further maintenance
 
-<p align="center">
+<p width="20%" align="center">
 		<img src="assets/app.gif" alt="animated" />
 </p>
 
