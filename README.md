@@ -65,7 +65,7 @@ Receive this collection service and view the tracking from your location to the 
 - [ ] Further maintenance
 
 <p align="center">
-		<img src="assets/app.gif" alt="animated" />
+		<img src="https://raw.githubusercontent.com/CxrlosKenobi/EVA-app/main/assets/app.gif" alt="animated" />
 </p>
 
 Also check out our Green-Map protoype! <a href="https://www.google.com/maps/d/u/0/embed?mid=1dpgtAlGBRyuXnYp_Lwpkwqioimgx-zd-
