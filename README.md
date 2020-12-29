@@ -10,7 +10,7 @@ EVA cares about your recycling for you! 🌱 <br><br>
 Home recycling collection service with real-time tracking and traceability. Plus awards system, statistics and education menu. <br>
 Classify your waste and contribute to the conservation of the environment! 🌎
 	</td>
-	<td width="50%" align='center'>
+	<td width="20%" align='center'>
 <img src=https://raw.githubusercontent.com/CxrlosKenobi/EVA-app/main/assets/logo.png>
 	</td>
 	<table>  
