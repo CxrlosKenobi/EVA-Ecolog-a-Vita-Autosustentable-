@@ -8,8 +8,8 @@
 	<td width="50%" align='center'>
 EVA cares about your recycling for you! 🌱 <br><br>
 Home recycling collection service with real-time tracking and traceability. Plus awards system, statistics and education menu. <br><br>
-Just specify your recycling, order in the app, and voila.
-Our punctual collectors will be outside your home ready to take your recycling where it belongs! <br>
+Just specify your recycling, order in the app, and voila!.
+Our punctual collectors will be outside your home ready to take your recycling where it belongs <br>
 	</td>
 	<td width="20%" align='center'>
 <img src=https://raw.githubusercontent.com/CxrlosKenobi/EVA-app/main/assets/logo.png>
@@ -55,12 +55,17 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 	</table>
 
 
-## Demo
-- [x] Set
-- [x] Set
-- [o] Current
+## Current phases
+- [x] Analysis and pre-design
+- [x] UI Design & Development
+- [x] Implementation & Coding
+- [ ] Integration & Testing
+- [ ] Deploy!
+- [ ] Further maintenance
 
-![til](https://raw.githubusercontent.com/CxrlosKenobi/EVA-app/main/assets/app.gif)
+<p align="center">
+		<img src="assets/app.gif" alt="animated" />
+</p>
 
 Also check out our Green-Map protoype! <a href="https://www.google.com/maps/d/u/0/embed?mid=1dpgtAlGBRyuXnYp_Lwpkwqioimgx-zd-
 " target="_blank">Here</a>
