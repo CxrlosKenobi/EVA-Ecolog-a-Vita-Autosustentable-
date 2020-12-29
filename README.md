@@ -16,8 +16,8 @@ Classify your waste and contribute to the conservation of the environment! 🌎
 	<table>  
 
 
-## Get all the advantages of being Eco! ♻️
-### Education
+# Get all the advantages of being Eco! ♻️
+## Education
 <table width="100%">
 	<tr>
 	<td width="50%" align='center'>
@@ -29,7 +29,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 	</td>
 	<table>
 
-### Global & local stats!
+## Global & local stats!
 <table width="100%">
 	<tr>
 	<td width="30%" align='center'>
@@ -41,7 +41,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 	</td>
 	<table>
 
-### Traceability
+## Traceability
 <table width="100%">
 	<tr>
 	<td width="50%" align='center'>
@@ -53,11 +53,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 	</td>
 	<table>
 
-## Check out our Green-Map demo!
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1dpgtAlGBRyuXnYp_Lwpkwqioimgx-zd-" width="640" height="480">
-</iframe>
 
-Only in Chilean territory temporarily 🇨🇱
+## Demo
+![til](https://raw.githubusercontent.com/CxrlosKenobi/EVA-app/main/assets/app.gif)
+
+Also check out our Green-Map protoype! <a href="https://www.google.com/maps/d/u/0/embed?mid=1dpgtAlGBRyuXnYp_Lwpkwqioimgx-zd-
+" target="_blank">Here</a>
+
 
 
 ## Contributing
@@ -79,3 +81,7 @@ Only in Chilean territory temporarily 🇨🇱
 
 
 ## Go to <a href="https://appeva.co" target="_blank">AppEva.co</a> 💚 !
+
+
+
+##### Made in Chile 🇨🇱
