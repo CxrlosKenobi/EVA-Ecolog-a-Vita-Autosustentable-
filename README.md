@@ -9,7 +9,7 @@
 EVA cares about your recycling for you! 🌱 <br><br>
 Home recycling collection service with real-time tracking and traceability. Plus awards system, statistics and education menu. <br><br>
 Just specify your recycling, order in the app, and voila!.
-Our punctual collectors will be outside your home ready to take your recycling where it belongs <br>
+Our punctual collectors will be outside your home ready to take your recycling where it belongs. 🌎✨ <br>
 	</td>
 	<td width="20%" align='center'>
 <img src=https://raw.githubusercontent.com/CxrlosKenobi/EVA-app/main/assets/logo.png>
@@ -23,7 +23,7 @@ Our punctual collectors will be outside your home ready to take your recycling w
 <table width="100%">
 	<tr>
 	<td width="50%" align='center'>
-Even if you are new to the world about recycling, don't worry, you can keep up to date from the Education menu. <br> From composting courses, types of plastic, garbage classification and even tutorials from scratch. <br>For free and with certified teachers!
+Even if you are new to the world about recycling, don't worry, you can keep up to date from the Education menu.🎓 <br><br> From composting courses, types of plastic, garbage classification and even tutorials from scratch. <br><br>For free and with certified teachers! ⚡
 	</td>
 	<td width="21%" align='center'>
 <img src=https://raw.githubusercontent.com/CxrlosKenobi/EVA-app/main/assets/Education.png>
@@ -37,8 +37,9 @@ Even if you are new to the world about recycling, don't worry, you can keep up t
 <img src=https://raw.githubusercontent.com/CxrlosKenobi/EVA-app/main/assets/stats.png>
 	</td>
 	<td width="50%" align='center'>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 🌎 <br>
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+📊 Receive information, global and local statistics on recycling. <br>
+In addition to a monthly report on the traceability of your contributions. <br><br>
+Imagine finding out that your classified garbage has become a reusable product! 😱💯
 	</td>
 	</table>
 
@@ -46,8 +47,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <table width="100%">
 	<tr>
 	<td width="50%" align='center'>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Receive this collection service and view the tracking from your location to the collection center. 😎 <br> <br>
+✅ Stay up to date with data transparency by finding out where and when your contributions are.
 	</td>
 	<td width="21%" align='center'>
 <img src=https://raw.githubusercontent.com/CxrlosKenobi/EVA-app/main/assets/mockup3.png>
@@ -63,7 +64,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 - [ ] Deploy!
 - [ ] Further maintenance
 
-<p width="20%" align="center">
+<p align="center">
 		<img src="assets/app.gif" alt="animated" />
 </p>
 
