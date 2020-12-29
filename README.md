@@ -5,14 +5,14 @@
 
 <table width="100%">
 	<tr>
-	<td width="50%" align='center'>
-EVA cares about your recycling for you! 🌱 <br><br>
-Home recycling collection service with real-time tracking and traceability. Plus awards system, statistics and education menu. <br><br>
-Just specify your recycling, order in the app, and voila!.
-Our punctual collectors will be outside your home ready to take your recycling where it belongs. 🌎✨ <br>
-	</td>
 	<td width="20%" align='center'>
 <img src=https://raw.githubusercontent.com/CxrlosKenobi/EVA-app/main/assets/logo.png>
+	</td>
+	<td width="50%" align='center'>
+	EVA cares about your recycling for you! 🌱 <br><br>
+	Home recycling collection service with real-time tracking and traceability. Plus awards system, statistics and education menu. <br><br>
+	Just specify your recycling, order in the app, and voila!.
+	Our punctual collectors will be outside your home ready to take your recycling where it belongs. 🌎✨ <br>
 	</td>
 	</table>  
 <br>
@@ -56,10 +56,10 @@ Receive this collection service and view the tracking from your location to the 
 	</table>
 
 
-## Current phases
+## Development phases
 - [x] Analysis and pre-design
 - [x] UI Design & Development
-- [x] Implementation & Coding
+- [ ] Implementation & Coding _(current)_
 - [ ] Integration & Testing
 - [ ] Deploy!
 - [ ] Further maintenance
