@@ -97,4 +97,4 @@ Also check out our Green-Map protoype! <a href="https://www.google.com/maps/d/u/
 ## Go to <a href="https://appeva.co" target="_blank">AppEva.co</a> 💚 !
 Classify your waste and contribute to the conservation of the environment! 🌎
 
-##### Made in Chile 🇨🇱 on CS50x Final Project
+##### Made in Chile 🇨🇱 
