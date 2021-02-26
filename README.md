@@ -85,7 +85,7 @@ Also check out our Green-Map protoype! <a href="https://www.google.com/maps/d/u/
 - XCode 8.2.1
 - Swift 3.0.2
 ### Android
-- Coming Soon
+- Coming Soon...
 
 ## License
 <a href="https://github.com/CxrlosKenobi/EVA-app/blob/main/LICENSE" target="_blank">Apache 2.0</a>
